@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 30px 10px;
+}
+
+.title {
+    font-weight: lighter;
+}
+
+
+.main-img {
+    box-shadow: 0px 2px 5px lightgray;
+    width: 33%;
+    padding: 10px;
+}
+.tags{
+    font-size: 14px;
+}
+.info{
+    padding: 10px;
+    display: block;
+}
+.rating{
+    width:100px;
+}
+a{
+    color: #007185;
+}
+
+.format{
+    display: flex;
+}
+.bold{
+    font-weight: bold;
+}
